@@ -1,2 +1,2 @@
-# murinepanelvalidation
-validating iterations of mouse T cell panel
+# FlowCy_setup
+FlowCy pipeline
